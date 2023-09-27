@@ -1,4 +1,5 @@
-기니디리비미
+가나다라마바사
+
 #include <stdio.h>
 #include <stdlib.h>
 
